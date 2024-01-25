@@ -5,6 +5,7 @@ import {Bio} from '../../data/constants'
 import Typewriter from "typewriter-effect";
 //import HeroImg from '../../img/Toppu.png'
 import HeroImg from '../../img/topImg.jpg'
+//Watashiwa toppu desu
 
 
 const HeroContainer = styled.div`
