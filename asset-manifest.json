@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prommate-pf/static/css/main.6352671d.css",
+    "main.js": "/prommate-pf/static/js/main.54e2c5fe.js",
+    "static/media/topImg.jpg": "/prommate-pf/static/media/topImg.cd264c617529a2288573.jpg",
+    "index.html": "/prommate-pf/index.html",
+    "main.6352671d.css.map": "/prommate-pf/static/css/main.6352671d.css.map",
+    "main.54e2c5fe.js.map": "/prommate-pf/static/js/main.54e2c5fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6352671d.css",
+    "static/js/main.54e2c5fe.js"
+  ]
+}
